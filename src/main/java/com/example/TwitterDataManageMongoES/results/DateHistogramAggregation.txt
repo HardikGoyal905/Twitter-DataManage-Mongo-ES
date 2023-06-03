@@ -1,0 +1,143 @@
+TweetsRecord till 4th June 2023 4.00 am
+
+{
+    "2023-06-01T00:00:00.000Z": {
+        "imVkohli": 5,
+        "klrahul": 1,
+        "RishabhPant17": 0,
+        "hardikpandya7": 0
+    },
+    "2023-05-01T00:00:00.000Z": {
+        "imVkohli": 31,
+        "hardikpandya7": 13,
+        "RishabhPant17": 10,
+        "klrahul": 3
+    },
+    "2023-04-01T00:00:00.000Z": {
+        "imVkohli": 19,
+        "hardikpandya7": 18,
+        "RishabhPant17": 12,
+        "klrahul": 10
+    },
+    "2023-03-01T00:00:00.000Z": {
+        "imVkohli": 23,
+        "hardikpandya7": 14,
+        "RishabhPant17": 6,
+        "klrahul": 4
+    },
+    "2023-02-01T00:00:00.000Z": {
+        "imVkohli": 19,
+        "hardikpandya7": 6,
+        "RishabhPant17": 5,
+        "klrahul": 3
+    },
+    "2023-01-01T00:00:00.000Z": {
+        "imVkohli": 28,
+        "hardikpandya7": 17,
+        "klrahul": 11,
+        "RishabhPant17": 4
+    },
+    "2022-12-01T00:00:00.000Z": {
+        "imVkohli": 17,
+        "hardikpandya7": 7,
+        "klrahul": 4,
+        "RishabhPant17": 2
+    },
+    "2022-11-01T00:00:00.000Z": {
+        "imVkohli": 14,
+        "hardikpandya7": 13,
+        "klrahul": 10,
+        "RishabhPant17": 6
+    },
+    "2022-10-01T00:00:00.000Z": {
+        "imVkohli": 26,
+        "hardikpandya7": 19,
+        "RishabhPant17": 12,
+        "klrahul": 11
+    },
+    "2022-09-01T00:00:00.000Z": {
+        "imVkohli": 17,
+        "RishabhPant17": 14,
+        "klrahul": 12,
+        "hardikpandya7": 11
+    },
+    "2022-08-01T00:00:00.000Z": {
+        "RishabhPant17": 12,
+        "hardikpandya7": 10,
+        "klrahul": 6,
+        "imVkohli": 0
+    },
+    "2022-07-01T00:00:00.000Z": {
+        "RishabhPant17": 43,
+        "klrahul": 6,
+        "hardikpandya7": 4,
+        "imVkohli": 0
+    },
+    "2022-06-01T00:00:00.000Z": {
+        "hardikpandya7": 13,
+        "klrahul": 10,
+        "RishabhPant17": 8,
+        "imVkohli": 0
+    },
+    "2022-05-01T00:00:00.000Z": {
+        "hardikpandya7": 11,
+        "klrahul": 10,
+        "RishabhPant17": 8,
+        "imVkohli": 0
+    },
+    "2022-04-01T00:00:00.000Z": {
+        "klrahul": 17,
+        "hardikpandya7": 13,
+        "RishabhPant17": 12,
+        "imVkohli": 0
+    },
+    "2022-03-01T00:00:00.000Z": {
+        "RishabhPant17": 31,
+        "hardikpandya7": 15,
+        "klrahul": 8,
+        "imVkohli": 0
+    },
+    "2022-02-01T00:00:00.000Z": {
+        "RishabhPant17": 15,
+        "klrahul": 13,
+        "hardikpandya7": 5,
+        "imVkohli": 0
+    },
+    "2022-01-01T00:00:00.000Z": {
+        "hardikpandya7": 10,
+        "klrahul": 7,
+        "RishabhPant17": 0,
+        "imVkohli": 0
+    },
+    "2021-12-01T00:00:00.000Z": {
+        "klrahul": 13,
+        "hardikpandya7": 1,
+        "RishabhPant17": 0,
+        "imVkohli": 0
+    },
+    "2021-11-01T00:00:00.000Z": {
+        "klrahul": 9,
+        "RishabhPant17": 0,
+        "hardikpandya7": 0,
+        "imVkohli": 0
+    },
+    "2021-10-01T00:00:00.000Z": {
+        "klrahul": 9,
+        "RishabhPant17": 0,
+        "hardikpandya7": 0,
+        "imVkohli": 0
+    },
+    "2021-09-01T00:00:00.000Z": {
+        "klrahul": 12,
+        "RishabhPant17": 0,
+        "hardikpandya7": 0,
+        "imVkohli": 0
+    },
+    "2021-08-01T00:00:00.000Z": {
+        "klrahul": 11,
+        "RishabhPant17": 0,
+        "hardikpandya7": 0,
+        "imVkohli": 0
+    }
+}
+*/
