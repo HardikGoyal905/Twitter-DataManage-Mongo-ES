@@ -6,8 +6,10 @@ import com.example.TwitterDataManageMongoES.dataServices.MongoService;
 import com.example.TwitterDataManageMongoES.dataServices.TwitterFetch;
 import org.bson.Document;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.social.twitter.api.Tweet;
 import org.springframework.social.twitter.api.TwitterProfile;
+import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import java.util.Collection;
