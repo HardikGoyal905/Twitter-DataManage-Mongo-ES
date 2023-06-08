@@ -10,7 +10,7 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.util.*;
-import java.util.concurrent.CompletableFuture;
+import java.util.concurrent.*;
 
 @Service
 public class ElasticReqRes {
@@ -154,6 +154,7 @@ public class ElasticReqRes {
         return result;
     }
 
+    
     public static HttpRequest followerLocationAggregationRequest(String user){
         // Define the request body
         String requestBody = "{\n" +
@@ -193,6 +194,8 @@ public class ElasticReqRes {
 
         return request;
     }
+    
+    // Actually I am adding this comment here, becozz I don't know what to do with it. Let me delete some file. Don't worry, its only for experimental purpose.
 
 
 }
